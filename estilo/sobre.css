@@ -139,16 +139,28 @@ form button:hover {
     cursor: pointer;
 }
 
-main a {
+main h1 {
     text-decoration: none;
     margin-left: -18vw;
+    margin-bottom: 5vh;
     margin-right: 5vw;
     font-weight: 600;
     color: #D6490B;
-    transition: 0.6s;
+    
 }
-main a:hover{
-    opacity: 0.8;
+main p{
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.246);
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 2px;
+    width: 25vw;
+    padding: 40px 20px;
+    border-radius: 25px;
+    margin-left: 27vw;
+    margin-right: 5vw;
+    font-weight: 600;
+    color: snow;
+   
 }
 
 footer {
